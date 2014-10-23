@@ -5,7 +5,6 @@
 // @description  fuck off craptcha
 // @match      https://wildwildweb.fluxfingers.net:1422/
 // @copyright  2014+, s0beit
-// @require    http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
 // @run-at     document-start
 // ==/UserScript==
 
